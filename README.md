@@ -18,3 +18,14 @@ Check that the regular version of rockbox works fine. It has 2 graph modes in gr
 
 Note: there will be other files names "oscilloscope.o", just ignore them, you need them to run the executable .rock file otherwise stuff will break 
 
+WHAT THEY DO: 
+The standard oscilloscope file ...
+
+
+
+Epic swag messiah pro tip: 
+In some folders there might be an "alternative_oscilloscope.rock" 
+This will be an earlier or altered version you can test out 
+
+
+
