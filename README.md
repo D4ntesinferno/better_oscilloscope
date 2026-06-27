@@ -8,7 +8,7 @@ Demo: https://www.reddit.com/r/Modded_iPods/comments/1uffv6r/comment/otuo11c/?sc
 How to install: 
 
 1. make sure you are running the latest stable version of rockbox on your device. There is a slim chance my my code will no longer be compatible in future rockbox updates (as of 26/06/2026)
-Check that the regular version of rockbox works fine. It has 2 graph modes in green. It will be found in "D:\.rockbox\rocks\demos\oscilloscope.rock" 
+Check that the regular version of the oscilloscope works fine. It has 2 graph modes in green. It will be found in "D:\.rockbox\rocks\demos\oscilloscope.rock" 
 
 2. Download the .ROCK file for your device from here (you don't need anything else) 
 
@@ -19,12 +19,12 @@ Check that the regular version of rockbox works fine. It has 2 graph modes in gr
 Note: there will be other files names "oscilloscope.o", just ignore them, you need them to run the executable .rock file otherwise stuff will break 
 
 WHAT THEY DO: 
-The standard oscilloscope file ...
+The standard oscilloscope file has a spectrum of 20 colours from white as the quietest, then purple, blues, greens, ect up the colour spectrum with red being the loudest
 
 
 
 Epic swag messiah pro tip: 
-In some folders there might be an "alternative_oscilloscope.rock" 
+In some folders there *might* be an "alternative_oscilloscope.rock" 
 This will be an earlier or altered version you can test out 
 
 
