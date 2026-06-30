@@ -15,6 +15,9 @@ Check that the regular version of the oscilloscope works fine. It has 2 graph mo
 3. delete the oscilloscope.rock file on your device 
 
 4. drag and drop the new oscilloscope.rock file into the same location. You're just swapping the old code out for the new one. 
+IMPORTANT!!!! the file MUST be named oscilloscope.rock
+That's "oscilloscope.rock" with no caps. Please rename the file to oscilloscope.rock if it is not already named that.
+
 
 Note: there will be other files names "oscilloscope.o", just ignore them, you need them to run the executable .rock file otherwise stuff will break 
 
